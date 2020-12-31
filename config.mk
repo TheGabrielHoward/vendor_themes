@@ -17,4 +17,8 @@
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
-    IconShapeEtruscanOverlay
+    IconShapeEtruscanOverlay \
+    IconShapeHealthOverlay \
+    IconShapeSandClockOverlay \
+    IconShapeStarOverlay \
+    IconShapeToothOverlay
